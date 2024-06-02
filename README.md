@@ -1,2 +1,2 @@
-# Appri-Landing-page
+# Appri-Landing-page-design
 Responsive Landing page
